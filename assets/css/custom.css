@@ -1,7 +1,7 @@
 .profile-header {
     display: flex;
     align-items: center;
-    background: linear-gradient(to right, #6a11cb, #2575fc);
+    background: linear-gradient(to right, #B3FFED, #D4FFD0);
     color: white;
     padding: 1.5em 1em;   /* controls height */
     border-radius: 10px;
@@ -24,6 +24,7 @@
 
 .profile-text p {
     margin: 0.3em 0;
+    font-family: "Avenir", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
 .profile-header, .profile-text {
     font-family: "Avenir", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
