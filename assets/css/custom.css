@@ -25,3 +25,7 @@
 .profile-text p {
     margin: 0.3em 0;
 }
+.profile-header, .profile-text {
+    font-family: "Avenir", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
