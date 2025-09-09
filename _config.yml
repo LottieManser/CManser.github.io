@@ -1,4 +1,3 @@
 theme: jekyll-theme-cayman
 title: Charlotte Manser
 description: Personal homepage
-<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
