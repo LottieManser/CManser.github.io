@@ -4,7 +4,12 @@ body {
     margin: 0;
     padding: 0;
 }
-
+/* Center content and limit width */
+.container {
+    max-width: 900px;   /* adjusts the maximum width */
+    margin: 0 auto;     /* centers horizontally */
+    padding: 1em;       /* spacing on mobile */
+}
 /* Profile header container */
 .profile-header {
     display: flex;
