@@ -4,7 +4,7 @@ title: Charlotte Manser
 ---
 
 <div class="profile-header">
-  <img src="{{ '/assets/images/charlotte.jpg' | relative_url }}" alt="Charlotte Manser" class="profile-pic">
+  <img src="{{ '/assets/images/me_crop.jpg' | relative_url }}" alt="Charlotte Manser" class="profile-pic">
   <div class="profile-text">
     <h1>Charlotte Manser</h1>
     <p><strong>Research Associate, Department of Mathematics, King’s College London</strong></p>
