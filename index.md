@@ -14,12 +14,6 @@ title: Charlotte Manser
   </div>
 </div>
 
-# Charlotte Manser
-
-**Research Associate, Department of Mathematics, King’s College London**  
-Email: [charlotte.manser@kcl.ac.uk](mailto:charlotte.manser@kcl.ac.uk)  
-Twitter: [@clmanser](https://twitter.com/clmanser) | LinkedIn: [linkedin.com/in/clmanser](https://www.linkedin.com/in/clmanser)  
-
 ---
 
 ## Biography
