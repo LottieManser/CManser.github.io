@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Home
+title: Charlotte Manser
 ---
 
 # Welcome
 
-This is my Jekyll site.
+This is my homepage.
 
