@@ -1,0 +1,27 @@
+.profile-header {
+    display: flex;
+    align-items: center;
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+    color: white;
+    padding: 2em 1em;
+    border-radius: 10px;
+    margin-bottom: 2em;
+}
+
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-right: 2em;
+    object-fit: cover;
+    border: 3px solid white;
+}
+
+.profile-text h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+.profile-text p {
+    margin: 0.3em 0;
+}
