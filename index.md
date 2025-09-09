@@ -3,6 +3,17 @@ layout: default
 title: Charlotte Manser
 ---
 
+<div class="profile-header">
+  <img src="{{ '/assets/images/charlotte.jpg' | relative_url }}" alt="Charlotte Manser" class="profile-pic">
+  <div class="profile-text">
+    <h1>Charlotte Manser</h1>
+    <p><strong>Research Associate, Department of Mathematics, King’s College London</strong></p>
+    <p>Email: <a href="mailto:charlotte.manser@kcl.ac.uk">charlotte.manser@kcl.ac.uk</a> | 
+       Twitter: <a href="https://twitter.com/clmanser">@clmanser</a> | 
+       LinkedIn: <a href="https://www.linkedin.com/in/clmanser">linkedin.com/in/clmanser</a></p>
+  </div>
+</div>
+
 # Charlotte Manser
 
 **Research Associate, Department of Mathematics, King’s College London**  
