@@ -3,23 +3,23 @@
     align-items: center;
     background: linear-gradient(to right, #6a11cb, #2575fc);
     color: white;
-    padding: 2em 1em;
+    padding: 1.5em 1em;   /* controls height */
     border-radius: 10px;
     margin-bottom: 2em;
 }
 
 .profile-pic {
-    width: 150px;
-    height: 150px;
+    width: 120px;         /* smaller width */
+    height: 120px;        /* maintain square for circle */
     border-radius: 50%;
-    margin-right: 2em;
-    object-fit: cover;
+    margin-right: 1.5em;  /* space between image and text */
+    object-fit: cover;    /* crop nicely */
     border: 3px solid white;
 }
 
 .profile-text h1 {
     margin: 0;
-    font-size: 2em;
+    font-size: 1.8em;     /* slightly smaller */
 }
 
 .profile-text p {
