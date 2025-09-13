@@ -1,5 +1,4 @@
 title: "Charlotte Manser"
 description: "Personal homepage"
 theme: "cayman"
-plugins:
-  - jekyll-remote-theme
+
