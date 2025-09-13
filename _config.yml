@@ -1,5 +1,5 @@
 title: "Charlotte Manser"
 description: "Personal homepage"
-remote_theme: "mmistakes/minimal-mistakes"
+theme: "cayman"
 plugins:
   - jekyll-remote-theme
