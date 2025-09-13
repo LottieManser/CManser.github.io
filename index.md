@@ -1,5 +1,4 @@
 ---
-theme: jekyll-theme-minimal
 title: Charlotte Manser
 description: Hello
 ---
