@@ -1,5 +1,3 @@
----
-remote_theme: minimal-mistakes-jekyll
-title: Charlotte Manser
-description: Personal homepage
----
+remote_theme: "mmistakes/minimal-mistakes"
+title: "Charlotte Manser"
+description: "Personal homepage"
